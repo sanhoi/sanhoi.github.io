@@ -1,7 +1,6 @@
 ## 似是故人来
 
 山有木兮木有枝，心悦君兮君不知
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
